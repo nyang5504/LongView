@@ -1,4 +1,4 @@
-package com.nyang5504.LongView;
+package test.java.com.nyang5504.LongView;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

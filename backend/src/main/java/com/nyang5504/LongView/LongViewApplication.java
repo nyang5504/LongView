@@ -1,4 +1,4 @@
-package com.nyang5504.LongView;
+package main.java.com.nyang5504.LongView;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
